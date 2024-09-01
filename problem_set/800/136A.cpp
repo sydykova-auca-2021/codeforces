@@ -6,7 +6,7 @@ void solve(){
 
     std::vector<int> a(n);
     for(int i = 0; i < n; ++i){
-        std::cin >> a[i]; // 2 3 4 1
+        std::cin >> a[i];
     }
 
     std::map<int, int> mp;

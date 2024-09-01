@@ -11,6 +11,7 @@ void solve(){
         char c;
         std::cin >> c;
 
+
         if(target_set.find(c) != target_set.end()){
 //        if(target.find(c) != std::string::npos){
             std::cout << "YES\n";

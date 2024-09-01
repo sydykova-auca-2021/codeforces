@@ -14,6 +14,7 @@ void solve(){
             count += 1;
         }
     }
+
     std::cout << count << "\n";
 }
 

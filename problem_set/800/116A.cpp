@@ -20,7 +20,6 @@ void solve(){
 
         max_capacity = std::max(max_capacity, count);
     }
-
     std::cout << max_capacity << "\n";
 }
 

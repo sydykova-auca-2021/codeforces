@@ -5,6 +5,7 @@ void solve(){
     std::cin >> n;
 
 
+
 }
 
 int main() {

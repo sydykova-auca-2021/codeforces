@@ -11,6 +11,7 @@ void solve(){
         std::cin >> n;
         std::string str;
 
+
         for(int i = 0; i < n; ++i){
             std::cin >> str;
         }

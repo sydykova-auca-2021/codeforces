@@ -17,7 +17,6 @@ void solve() {
         }
     }
     str += " it";
-
     std::cout << str << "\n";
 }
 

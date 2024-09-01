@@ -9,6 +9,7 @@ void solve(){
     for(char c : str1){
         mp1[c]++;
     }
+
     for(char c : str2){
         mp1[c]++;
     }

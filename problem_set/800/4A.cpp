@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 void solve(){
-    int n; // 8
+    int n;
     std::cin >> n;
 
     if(n % 2 == 0 && n >= 4){

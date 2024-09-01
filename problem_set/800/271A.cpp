@@ -9,7 +9,6 @@ void solve(){
 
         std::string new_str = std::to_string(y);
         std::set<char> digits;
-
         bool allDistinct = true;
 
         for(char digit : new_str){

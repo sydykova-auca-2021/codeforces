@@ -4,6 +4,7 @@ void solve(){
     int n;
     std::cin >> n;
 
+
     while(n--){
         int a, b, c, d;
         std::cin >> a >> b >> c >> d;

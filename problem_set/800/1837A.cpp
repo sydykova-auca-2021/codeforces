@@ -8,6 +8,7 @@ void solve(){
         std::string str;
         std::cin >> str;
 
+
         if(str[0] == 'b' && str[1] == 'a') {
             std::cout << "YES\n";
         } else if(str[1] == 'c' && str[2] == 'b') {

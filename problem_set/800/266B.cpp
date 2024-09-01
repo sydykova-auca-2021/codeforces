@@ -10,6 +10,7 @@ void solve(){
         std::cin >> vec[i];
     }
 
+
     for(int j = 1; j <= t; ++j) {
         for (int i = 0; i < n - 1; ++i) {
             if (vec[i] == 'B' && vec[i + 1] == 'G') {

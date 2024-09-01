@@ -5,6 +5,7 @@ void solve(){
     std::cin >> t;
     std::string target = "codeforces";
 
+
     for(int i = 0; i < t; ++i){
         std::string str;
         std::cin >> str;

@@ -13,6 +13,7 @@ void solve(){
         set1.insert(num1);
     }
 
+
     int q;
     std::cin >> q;
     for(int i = 0; i < q; ++i){

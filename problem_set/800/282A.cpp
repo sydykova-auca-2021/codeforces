@@ -5,6 +5,7 @@ void solve(){
     std::cin >> n;
     int x = 0;
 
+
     for(int i = 0; i < n; ++i){
         std::string statement;
         std::cin >> statement;

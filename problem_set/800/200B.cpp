@@ -14,7 +14,6 @@ void solve(){
 
     double mean = static_cast<double>(sum) / n;
 
-    // fixed - prints 0 in the end
     std::cout << std::fixed << std::setprecision(12) << mean << "\n";
 }
 

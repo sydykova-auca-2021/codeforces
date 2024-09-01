@@ -18,7 +18,6 @@ void solve(){
             count++;
         }
     }
-
     std::cout << count << "\n";
 }
 

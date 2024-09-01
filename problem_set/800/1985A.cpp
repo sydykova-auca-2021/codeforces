@@ -4,6 +4,7 @@ void solve(){
     int n;
     std::cin >> n;
 
+
     while(n--){
         std::string str1, str2;
         std::cin >> str1 >> str2;

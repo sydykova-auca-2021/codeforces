@@ -4,6 +4,7 @@
 // 1 + 2 + 3 = sum of consecutive nums
 
 // sum = (w * (w + 1)) / 2
+
 void solve(){
     int k,n,w;
     std::cin >> k >> n >> w;

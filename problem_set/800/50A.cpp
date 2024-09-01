@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 void solve(){
-    int m, n; // 2 4
+    int m, n;
     std::cin >> m >> n;
 
     int total = m * n;

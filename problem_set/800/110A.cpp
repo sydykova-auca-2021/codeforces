@@ -9,6 +9,7 @@ void solve(){
         std::cin >> a[i];
     }
 
+
     int countA = 0;
     int countD = 0;
 

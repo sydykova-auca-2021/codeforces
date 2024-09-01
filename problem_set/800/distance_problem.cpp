@@ -12,6 +12,7 @@ void solve(){
     int distance = abs(a - median) + abs(b - median) + abs(c - median);
     std::cout << distance << "\n";
 
+
 //    int dist;
 //    if(a < b && b < c){
 //        dist = (c - b) + (b - a);

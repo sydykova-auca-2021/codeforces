@@ -12,6 +12,7 @@ void solve(){
         }
     }
 
+
     std::sort(numbers.begin(), numbers.end());
 
     for(int i = 0; i < numbers.size(); ++i){

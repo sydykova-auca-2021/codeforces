@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 
+
 void solve(){
     int a, b;
     std::cin >> a >> b;

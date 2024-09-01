@@ -8,6 +8,7 @@ void solve(){
         std::string exp;
         std::cin >> exp;
 
+
         int a = exp[0] - '0';
         int b = exp[2] - '0';
         int sum = a + b;

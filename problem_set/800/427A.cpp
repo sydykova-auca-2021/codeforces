@@ -3,7 +3,6 @@
 void solve(){
     int n;
     std::cin >> n;
-
     int available = 0;
     int occurred = 0;
 

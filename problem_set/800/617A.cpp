@@ -10,6 +10,7 @@ void solve(){
     } else if(x % 5 > 0){
         steps = (x / 5) + 1;
     }
+
     std::cout << steps;
 }
 

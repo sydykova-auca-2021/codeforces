@@ -6,7 +6,7 @@ void solve(){
 
     while(t--){
         int n;
-        std::cin >> n; // 4
+        std::cin >> n;
 
         std::vector<int> a(n); // 11 13 11 11
         for(int i = 0; i < n; ++i) {

@@ -15,6 +15,7 @@ void solve(){
         }
     }
 
+
     if(count_lower >= count_upper){
         transform(str.begin(), str.end(), str.begin(), ::tolower);
     } else if(count_lower < count_upper) {

@@ -20,6 +20,7 @@ void solve(){
         }
     }
 
+
     for (const auto& row : pattern) {
         std::cout << row << '\n';
     }
